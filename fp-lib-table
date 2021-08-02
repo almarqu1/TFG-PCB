@@ -1,3 +1,6 @@
 (fp_lib_table
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/zveng/OneDrive/Escritorio/Class/TFG/Repo/TFG-PCB/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri C:/Users/zveng/OneDrive/Escritorio/Class/TFG/Repo/TFG-PCB/MX_Alps_Hybrid/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+  (lib (name TYPE-C-31-M-12)(type KiCad)(uri C:/Users/zveng/Downloads/TYPE-C-31-M-12)(options "")(descr ""))
 )
